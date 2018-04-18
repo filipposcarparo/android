@@ -1,0 +1,50 @@
+{
+  "name": "Componenti",
+  "tipo": [
+    {
+      "name": "Case",
+      "caratteristiche": [
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41H5S5VbQlL._AC_US160_.jpg",
+          "Titolo": "NOX NXPAX Midi-Tower Black computer case - computer cases" ,
+          "Costo": "EUR 21,53",
+	  "Fatt_Forma": "ATX,Micro-ATX",
+	  "Marca":" ",
+	  "Descrizione":" "
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41ggj0VsV4L._AC_US160_.jpg",
+          "Titolo": "Sharkoon S25-W Midi-Tower Black computer case - computer cases" ,
+          "Costo": "EUR 45,99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":" ",
+	  "Descrizione":" "
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/51uf1IMm-aL._AC_US160_.jpg",
+          "Titolo": "Itek ITGCR03 Cassa per PC da Gaming Midi-Tower" ,
+          "Costo": "EUR 34,99",
+	  "Fatt_Forma": "Midi-Tower",
+	  "Marca":" ",
+	  "Descrizione":" "
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/51hNqCVlUpL._AC_US160_.jpg",
+          "Titolo": "Itek ITGCSA02 Cassa per PC da Gaming, Nero" ,
+          "Costo": "EUR 35,99",
+	  "Fatt_Forma": "Midi-Tower",
+	  "Marca":" ",
+	  "Descrizione":" "
+        },
+        {
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41RA%2BB19Z0L.jpg",
+          "Titolo": "Corsair CC-9011050-WW Case da Gaming" ,
+          "Costo": "EUR 48,99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":" ",
+	  "Descrizione":" "
+        }
+      ]
+    }
+]
+}
