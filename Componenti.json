@@ -1,0 +1,112 @@
+{
+  "name": "Componenti",
+  "tipo": [
+    {
+      "name": "Case",
+      "caratteristiche": [
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41H5S5VbQlL._AC_US160_.jpg",
+          "Titolo": "NXPAX Black case" ,
+          "Costo": "EUR 21.53",
+	  "Fatt_Forma": "ATX,Micro-ATX",
+	  "Marca":"NOX",
+	  "Descrizione":"Peso: 5,5 Kg"
+        },
+	 {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/51Jtpg-W27L._SX522_.jpg",
+          "Titolo": "Hummer TG RGB Tower Black computer case" ,
+          "Costo": "EUR 91.41",
+	  "Fatt_Forma": "ATX,ITX,Micro-ATX",
+	  "Marca":"NOX",
+	  "Descrizione":"Peso: 4,5 Kg "
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41ggj0VsV4L._AC_US160_.jpg",
+          "Titolo": "S25-W Black computer case" ,
+          "Costo": "EUR 45.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Sharkoon",
+	  "Descrizione":"Peso: 6,5 Kg"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/51uf1IMm-aL._AC_US160_.jpg",
+          "Titolo": "ITGCR03 case da Gaming" ,
+          "Costo": "EUR 34.99",
+	  "Fatt_Forma": "Midi-Tower",
+	  "Marca":"Itek",
+	  "Descrizione":"peso: 6 Kg"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/51hNqCVlUpL._AC_US160_.jpg",
+          "Titolo": "Itek ITGCSA02 case da Gaming nero" ,
+          "Costo": "EUR 35.99",
+	  "Fatt_Forma": "Midi-Tower",
+	  "Marca":"Itek",
+	  "Descrizione":"Peso: 6,5 Kg"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41RA%2BB19Z0L.jpg",
+          "Titolo": "CC-9011050-WW Case da Gaming" ,
+          "Costo": "EUR 48.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Corsair",
+	  "Descrizione":"Peso: 6 Kg"
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/61gdCE-AweL._SX522_.jpg",
+          "Titolo": "TG5 Midi-Tower Black computer case" ,
+          "Costo": "EUR 54.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Sharkoon",
+	  "Descrizione":"Peso: 5 Kg "
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/61dpo43sZlL._SX522_.jpg",
+          "Titolo": "VG4-W Midi-Tower Black,Red computer case" ,
+          "Costo": "EUR 31.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Sharkoon",
+	  "Descrizione":"Peso: 3,5 Kg "
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/81Nh1YIm-ZL._SX522_.jpg",
+          "Titolo": "MasterBox Lite 3.1 Case" ,
+          "Costo": "EUR 40.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Cooler Master",
+	  "Descrizione":"Peso: 4,44 Kg "
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41But1Z7TwL.jpg",
+          "Titolo": "MasterBox 5 White with Dark Mirror Front Panel Case" ,
+          "Costo": "EUR 44.99",
+	  "Fatt_Forma": "ATX",
+	  "Marca":"Cooler Master",
+	  "Descrizione":"Peso: 4,44 Kg "
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/7114UeFqfwL._SX522_.jpg",
+          "Titolo": "MasterBox 5 MSI Gaming Edition Case" ,
+          "Costo": "EUR 69.68",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ATX",
+	  "Marca":"Cooler Master",
+	  "Descrizione":"Peso: 7,82 Kg "
+        }
+      ]
+    },
+    {
+	 "name": "Motherboard",
+      "caratteristiche": [
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/91Rt%2BcI1LLL._SX522_.jpg",
+          "Titolo": "ROG MAXIMUS IX FORMULA Scheda Madre" ,
+          "Costo": "EUR 338.99",
+	  "Fatt_Forma": "ATX",
+	  "Marca":"ASUS",
+	  "Descrizione":"CPU:LGA 1151,RAM:DDR4-SDRAM,RAM-MAX:64 GB,"
+        }
+	]
+	}
+
+]
+}
