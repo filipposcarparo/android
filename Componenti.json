@@ -138,10 +138,7 @@
           "Costo": "EUR 345.99",
 	  "Fatt_Forma": "ATX",
 	  "Marca":"Asrock",
-<<<<<<< HEAD
-	  "Descrizione":"CPU:LGA 2066,RAM:DDR4-SDRAM,RAM-MAX:128 GB,"
-=======
-	  "Descrizione":"CPU:INTEL;LGA 2066,RAM:DDR4-SDRAM,RAM-MAX:128 GB"
+	  "Descrizione" : "CPU:INTEL;LGA 2066,RAM:DDR4-SDRAM,RAM-MAX:128 GB"
         },
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/81OfLJR2x6L._SX679_.jpg",
@@ -175,8 +172,8 @@
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/41AGvSmY-fL.jpg",
           "Titolo": "Corsair CMK16GX4M2B3000C15" ,
-          "Costo": "EUR 117.90”,
-	  "Fatt_Forma": "DDR4-SDRAM",
+          "Costo": "EUR 117.90" ,
+	  "Fatt_Forma" : "DDR4-SDRAM",
 	  "Marca":"Corsair",
 	  "Descrizione":"RAM:16 GB"
         },
@@ -248,7 +245,6 @@
 	  "Fatt_Forma": "AM4",
 	  "Marca":"AMD",
 	  "Descrizione":"RAM:DDR4-SDRAM"
->>>>>>> b441445c93bec07ec1851d3e00a11f0ec1cbf8c1
         }
 	]
 	}
