@@ -149,7 +149,7 @@
           "img": "https://images-na.ssl-images-amazon.com/images/I/81OfLJR2x6L._SX679_.jpg",
           "Titolo": "Asrock J4205-ITX motherboard" ,
           "Costo": "EUR 103.80”,
-	  "Fatt_Forma": “ITX”,
+	  "Fatt_Forma": "ITX",
 	  "Marca":"Asrock",
 	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:16 GB"
         },
@@ -157,26 +157,26 @@
           "img": "https://images-na.ssl-images-amazon.com/images/I/51QW01AWuPL.jpg",
           "Titolo": "ASUS N3150I-C Braswell Scheda Madre" ,
           "Costo": "EUR 80.40”,
-	  "Fatt_Forma": “Mini-ITX”,
-	  "Marca”:”Asus”,
+	  "Fatt_Forma": "Mini-ITX",
+	  "Marca":"Asus",
 	  "Descrizione":"CPU:INTEL;LGA 1170,RAM:DDR3-SDRAM,RAM-MAX:8 GB"
         },
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/51KYJqydi1L.jpg",
           "Titolo": "ASUS PRIME X370-A AMD X370" ,
-          "Costo": "EUR 124.90”,
-	  "Fatt_Forma": “Mini-ITX”,
+          "Costo": "EUR 124.90",
+	  "Fatt_Forma": "Mini-ITX",
 	  "Marca”:”Asus”,
 	  "Descrizione":"CPU:AMD;AM4,RAM:DDR4-SDRAM,RAM-MAX:64 GB"
         }
 	]
   },
   {
-	"name": “RAM”,
+	"name": "RAM",
      	"caratteristiche": [
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/41AGvSmY-fL.jpg",
-          "Titolo": "Corsair CMK16GX4M2B3000C15 " ,
+          "Titolo": "Corsair CMK16GX4M2B3000C15" ,
           "Costo": "EUR 117.90”,
 	  "Fatt_Forma": "DDR4-SDRAM",
 	  "Marca":"Corsair",
@@ -192,8 +192,8 @@
         },
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/51JYTCG0M1L.jpg",
-          "Titolo": “Corsair Simm Memoria RAM” ,
-          "Costo": "EUR 71.89”,
+          "Titolo": "Corsair Simm Memoria RAM",
+          "Costo": "EUR 71.89",
 	  "Fatt_Forma": "DDR3",
 	  "Marca":"Corsair",
 	  "Descrizione":"RAM:8 GB"
@@ -212,12 +212,12 @@
           "Costo": "EUR 87.89”,
 	  "Fatt_Forma": "DDR4-SDRAM",
 	  "Marca":"HyperX",
-	  "Descrizione”:”RAM:8 GB"
+	  "Descrizione":"RAM:8 GB"
         }
 	]
 },
 {
-	"name": “CPU”,
+	"name": "CPU",
      	"caratteristiche": [
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/71FVG05LzRL._SX679_.jpg",
@@ -237,16 +237,16 @@
         },
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/5121nzU159L.jpg",
-          "Titolo": “Intel Core i3-7100 3.9GHz 3MB Cache ” ,
-          "Costo": "EUR 104.00”,
-	  "Fatt_Forma": "LGA 1151”,
+          "Titolo": "Intel Core i3-7100 3.9GHz 3MB Cache" ,
+          "Costo": "EUR 104.00",
+	  "Fatt_Forma": "LGA 1151",
 	  "Marca":"INTEL",
 	  "Descrizione":"RAM:DDR-SDRAM"
         },
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/615o6o8HXqL._SX679_.jpg",
           "Titolo": "AMD YD1200BBAEBOX Processore " ,
-          "Costo": "EUR 85.00”,
+          "Costo": "EUR 85.00",
 	  "Fatt_Forma": "AM4",
 	  "Marca":"AMD",
 	  "Descrizione":"RAM:DDR4-SDRAM”
