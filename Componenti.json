@@ -90,7 +90,7 @@
           "Costo": "EUR 69.68",
 	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ATX",
 	  "Marca":"Cooler Master",
-	  "Descrizione":"Peso: 7,82 Kg "
+	  "Descrizione":"Peso: 7,82 Kg"
         }
       ]
     },
@@ -138,7 +138,117 @@
           "Costo": "EUR 345.99",
 	  "Fatt_Forma": "ATX",
 	  "Marca":"Asrock",
+<<<<<<< HEAD
 	  "Descrizione":"CPU:LGA 2066,RAM:DDR4-SDRAM,RAM-MAX:128 GB,"
+=======
+	  "Descrizione":"CPU:INTEL;LGA 2066,RAM:DDR4-SDRAM,RAM-MAX:128 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81OfLJR2x6L._SX679_.jpg",
+          "Titolo": "Asrock J4205-ITX motherboard" ,
+          "Costo": "EUR 103.80",
+	  "Fatt_Forma": "ITX",
+	  "Marca":"Asrock",
+	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:16 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51QW01AWuPL.jpg",
+          "Titolo": "ASUS N3150I-C Braswell Scheda Madre" ,
+          "Costo": "EUR 80.40",
+	  "Fatt_Forma": "Mini-ITX",
+	  "Marca":"Asus",
+	  "Descrizione":"CPU:INTEL;LGA 1170,RAM:DDR3-SDRAM,RAM-MAX:8 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51KYJqydi1L.jpg",
+          "Titolo": "ASUS PRIME X370-A AMD X370" ,
+          "Costo": "EUR 124.90",
+	  "Fatt_Forma": "Mini-ITX",
+	  "Marca": "Asus",
+	  "Descrizione":"CPU:AMD;AM4,RAM:DDR4-SDRAM,RAM-MAX:64 GB"
+        }
+	]
+  },
+  {
+	"name": "RAM",
+     	"caratteristiche": [
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41AGvSmY-fL.jpg",
+          "Titolo": "Corsair CMK16GX4M2B3000C15" ,
+          "Costo": "EUR 117.90”,
+	  "Fatt_Forma": "DDR4-SDRAM",
+	  "Marca":"Corsair",
+	  "Descrizione":"RAM:16 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81ly9A6hgZL._SX679_.jpg",
+          "Titolo": "Ballistix Sport LT BLS8G4D240FSE " ,
+          "Costo": "EUR 88.99",
+	  "Fatt_Forma": "DDR4-SDRAM",
+	  "Marca":"Ballistix",
+	  "Descrizione":"RAM:8 GB”
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51JYTCG0M1L.jpg",
+          "Titolo": "Corsair Simm Memoria RAM",
+          "Costo": "EUR 71.89",
+	  "Fatt_Forma": "DDR3",
+	  "Marca":"Corsair",
+	  "Descrizione":"RAM:8 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/612-qbVn8XL._SX679_.jpg",
+          "Titolo": "Kingston HyperX Fury" ,
+          "Costo": "EUR 79.18",
+	  "Fatt_Forma": "DDR3-SDRAM",
+	  "Marca":"Kingston",
+	  "Descrizione":"RAM:8 GB”
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51eY%2BR27TRL._SX679_.jpg",
+          "Titolo": "HyperX Fury HX424C15FB2/8 " ,
+          "Costo": "EUR 87.89",
+	  "Fatt_Forma": "DDR4-SDRAM",
+	  "Marca":"HyperX",
+	  "Descrizione":"RAM:8 GB"
+        }
+	]
+},
+{
+	"name": "CPU",
+     	"caratteristiche": [
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/71FVG05LzRL._SX679_.jpg",
+          "Titolo": "Intel i5 BX80684I58400 Cpu Processore" ,
+          "Costo": "EUR 175.90",
+	  "Fatt_Forma": "LGA 1151",
+	  "Marca":"INTEL",
+	  "Descrizione":"RAM:DDR4-SDRAM”
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/717cM10iJFL._SX679_.jpg",
+          "Titolo": "Intel I7-7700K Box Processore" ,
+          "Costo": "EUR 293.99",
+	  "Fatt_Forma": "LGA 1151",
+	  "Marca":"INTEL",
+	  "Descrizione":"RAM:DDR4-SDRAM"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/5121nzU159L.jpg",
+          "Titolo": "Intel Core i3-7100 3.9GHz 3MB Cache" ,
+          "Costo": "EUR 104.00",
+	  "Fatt_Forma": "LGA 1151",
+	  "Marca":"INTEL",
+	  "Descrizione":"RAM:DDR-SDRAM"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/615o6o8HXqL._SX679_.jpg",
+          "Titolo": "AMD YD1200BBAEBOX Processore " ,
+          "Costo": "EUR 85.00",
+	  "Fatt_Forma": "AM4",
+	  "Marca":"AMD",
+	  "Descrizione":"RAM:DDR4-SDRAM"
+>>>>>>> b441445c93bec07ec1851d3e00a11f0ec1cbf8c1
         }
 	]
 	}
