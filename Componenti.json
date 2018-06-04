@@ -1,0 +1,337 @@
+{
+  "name": "Componenti",
+  "tipo": [
+    {
+      "name": "Case",
+      "caratteristiche": [
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41H5S5VbQlL._AC_US160_.jpg",
+          "Titolo": "NXPAX Black case" ,
+          "Costo": "EUR 21.53",
+	  "Fatt_Forma": "ATX,Micro-ATX",
+	  "Marca":"NOX",
+	  "Descrizione":"Peso: 5,5 Kg"
+        },
+	 {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/51Jtpg-W27L._SX522_.jpg",
+          "Titolo": "Hummer TG RGB Tower Black computer case" ,
+          "Costo": "EUR 91.41",
+	  "Fatt_Forma": "ATX,ITX,Micro-ATX",
+	  "Marca":"NOX",
+	  "Descrizione":"Peso: 4,5 Kg "
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41ggj0VsV4L._AC_US160_.jpg",
+          "Titolo": "S25-W Black computer case" ,
+          "Costo": "EUR 45.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Sharkoon",
+	  "Descrizione":"Peso: 6,5 Kg"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/51uf1IMm-aL._AC_US160_.jpg",
+          "Titolo": "ITGCR03 case da Gaming" ,
+          "Costo": "EUR 34.99",
+	  "Fatt_Forma": "Midi-Tower",
+	  "Marca":"Itek",
+	  "Descrizione":"peso: 6 Kg"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/51hNqCVlUpL._AC_US160_.jpg",
+          "Titolo": "Itek ITGCSA02 case da Gaming nero" ,
+          "Costo": "EUR 35.99",
+	  "Fatt_Forma": "Midi-Tower",
+	  "Marca":"Itek",
+	  "Descrizione":"Peso: 6,5 Kg"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41RA%2BB19Z0L.jpg",
+          "Titolo": "CC-9011050-WW Case da Gaming" ,
+          "Costo": "EUR 48.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Corsair",
+	  "Descrizione":"Peso: 6 Kg"
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/61gdCE-AweL._SX522_.jpg",
+          "Titolo": "TG5 Midi-Tower Black computer case" ,
+          "Costo": "EUR 54.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Sharkoon",
+	  "Descrizione":"Peso: 5 Kg "
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/61dpo43sZlL._SX522_.jpg",
+          "Titolo": "VG4-W Midi-Tower Black,Red computer case" ,
+          "Costo": "EUR 31.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Sharkoon",
+	  "Descrizione":"Peso: 3,5 Kg "
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/81Nh1YIm-ZL._SX522_.jpg",
+          "Titolo": "MasterBox Lite 3.1 Case" ,
+          "Costo": "EUR 40.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Cooler Master",
+	  "Descrizione":"Peso: 4,44 Kg "
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41But1Z7TwL.jpg",
+          "Titolo": "MasterBox 5 White with Dark Mirror Front Panel Case" ,
+          "Costo": "EUR 44.99",
+	  "Fatt_Forma": "ATX",
+	  "Marca":"Cooler Master",
+	  "Descrizione":"Peso: 4,44 Kg "
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/7114UeFqfwL._SX522_.jpg",
+          "Titolo": "MasterBox 5 MSI Gaming Edition Case" ,
+          "Costo": "EUR 69.68",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ATX",
+	  "Marca":"Cooler Master",
+	  "Descrizione":"Peso: 7,82 Kg"
+        }
+      ]
+    },
+    {
+	 "name": "Motherboard",
+      "caratteristiche": [
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/91Rt%2BcI1LLL._SX522_.jpg",
+          "Titolo": "ROG MAXIMUS IX Scheda Madre" ,
+          "Costo": "EUR 338.99",
+	  "Fatt_Forma": "ATX",
+	  "Marca":"Asus",
+	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR4-SDRAM,RAM-MAX:64 GB,"
+        },{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/71vgjW9dSrL._SX679_.jpg",
+          "Titolo": "Gigabyte GA-H110M-S2H Scheda Madre" ,
+          "Costo": "EUR 51.99",
+	  "Fatt_Forma": "Micro-ATX",
+	  "Marca":"Gigabyte Technology",
+	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR4-SDRAM,RAM-MAX:32 GB,"
+        },{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51wHgkxYh7L.jpg",
+          "Titolo": "MSI Z270 Gaming Pro Carbon Scheda Madre" ,
+          "Costo": "EUR 137.31",
+	  "Fatt_Forma": "ATX",
+	  "Marca":"MSI",
+	  "Descrizione":"CPU:INTEL;LGA 2011-v3,RAM:DDR4-SDRAM,RAM-MAX:64 GB,"
+        },{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41AnfCPvb8L.jpg",
+          "Titolo": "Asus X99-M WS Scheda Madre Intel 2011" ,
+          "Costo": "EUR 223.00",
+	  "Fatt_Forma": "Micro-ATX",
+	  "Marca":"Asus",
+	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:64 GB,"
+        },{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51HhbnRKaYL.jpg",
+          "Titolo": "Msi Z170A M9 ACK Scheda Madre da Gaming" ,
+          "Costo": "EUR 398.47",
+	  "Fatt_Forma": "ATX",
+	  "Marca":"MSI",
+	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:64 GB"
+        },{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81XKGla1H%2BL._SX679_.jpg",
+          "Titolo": "Asrock X299 Taichi Intel X299 LGA 2066" ,
+          "Costo": "EUR 345.99",
+	  "Fatt_Forma": "ATX",
+	  "Marca":"Asrock",
+	  "Descrizione" : "CPU:INTEL;LGA 2066,RAM:DDR4-SDRAM,RAM-MAX:128 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81OfLJR2x6L._SX679_.jpg",
+          "Titolo": "Asrock J4205-ITX motherboard" ,
+          "Costo": "EUR 103.80",
+	  "Fatt_Forma": "ITX",
+	  "Marca":"Asrock",
+	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:16 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51QW01AWuPL.jpg",
+          "Titolo": "ASUS N3150I-C Braswell Scheda Madre" ,
+          "Costo": "EUR 80.40",
+	  "Fatt_Forma": "Mini-ITX",
+	  "Marca":"Asus",
+	  "Descrizione":"CPU:INTEL;LGA 1170,RAM:DDR3-SDRAM,RAM-MAX:8 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51KYJqydi1L.jpg",
+          "Titolo": "ASUS PRIME X370-A AMD X370" ,
+          "Costo": "EUR 124.90",
+	  "Fatt_Forma": "Mini-ITX",
+	  "Marca": "Asus",
+	  "Descrizione":"CPU:AMD;AM4,RAM:DDR4-SDRAM,RAM-MAX:64 GB"
+        }
+	]
+  },
+  {
+	"name": "RAM",
+     	"caratteristiche": [
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41AGvSmY-fL.jpg",
+          "Titolo": "Corsair CMK16GX4M2B3000C15" ,
+          "Costo": "EUR 117.90" ,
+	  "Fatt_Forma" : "DDR4-SDRAM",
+	  "Marca":"Corsair",
+	  "Descrizione":"RAM:16 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81ly9A6hgZL._SX679_.jpg",
+          "Titolo": "Ballistix Sport LT BLS8G4D240FSE " ,
+          "Costo": "EUR 88.99",
+	  "Fatt_Forma": "DDR4-SDRAM",
+	  "Marca":"Ballistix",
+	  "Descrizione":"RAM:8 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51JYTCG0M1L.jpg",
+          "Titolo": "Corsair Simm Memoria RAM" ,
+          "Costo": "EUR 71.89" ,
+	  "Fatt_Forma": "DDR3" ,
+	  "Marca":"Corsair" ,
+	  "Descrizione":"RAM:8 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/612-qbVn8XL._SX679_.jpg",
+          "Titolo": "Kingston HyperX Fury" ,
+          "Costo": "EUR 79.18" ,
+	  "Fatt_Forma": "DDR3-SDRAM" ,
+	  "Marca":"Kingston" ,
+	  "Descrizione":"RAM:8 GB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51eY%2BR27TRL._SX679_.jpg",
+          "Titolo": "HyperX Fury HX424C15FB2/8 " ,
+          "Costo": "EUR 87.89" ,
+	  "Fatt_Forma": "DDR4-SDRAM" ,
+	  "Marca":"HyperX" , 
+	  "Descrizione":"RAM:8 GB"
+        }
+	]
+},
+{
+	"name": "CPU",
+     	"caratteristiche": [
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/71FVG05LzRL._SX679_.jpg",
+          "Titolo": "Intel i5 BX80684I58400 Cpu Processore" ,
+          "Costo": "EUR 175.90" ,
+	  "Fatt_Forma": "LGA 1151" ,
+	  "Marca":"INTEL" ,
+	  "Descrizione":"RAM:DDR4-SDRAM"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/717cM10iJFL._SX679_.jpg",
+          "Titolo": "Intel I7-7700K Box Processore" ,
+          "Costo": "EUR 293.99" ,
+	  "Fatt_Forma": "LGA 1151" ,
+	  "Marca":"INTEL" ,
+	  "Descrizione":"RAM:DDR4-SDRAM"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/5121nzU159L.jpg",
+          "Titolo": "Intel Core i3-7100 3.9GHz 3MB Cache" ,
+          "Costo": "EUR 104.00",
+	  "Fatt_Forma": "LGA 1151",
+	  "Marca":"INTEL",
+	  "Descrizione":"RAM:DDR4-SDRAM"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/615o6o8HXqL._SX679_.jpg",
+          "Titolo": "AMD YD1200BBAEBOX Processore" ,
+          "Costo": "EUR 85.00" , 
+	  "Fatt_Forma": "AM4" ,
+	  "Marca":"AMD" ,
+	  "Descrizione":"RAM:DDR4-SDRAM"
+        }
+	]
+},{
+	"name": "Alimentatore",
+     	"caratteristiche": [
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/91Y3Z0c8G5L._SX522_.jpg",
+          "Titolo": "Corsair VS450 CP-9020096-EU Alimentatore" ,
+          "Costo": "EUR 44.82" ,
+	  "Fatt_Forma": "ATX" ,
+	  "Marca": "Corsair" ,
+	  "Descrizione": "450 W"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/91aqNXaD%2BQL._SX522_.jpg",
+          "Titolo": "Corsair VS650 CP-9020098-EU Alimentatore" ,
+          "Costo": "EUR 57.27" ,
+	  "Fatt_Forma": "ATX" ,
+	  "Marca": "Corsair" ,
+	  "Descrizione": "650 W"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/814E-jl2aNL._SX522_.jpg",
+          "Titolo": "Cooler Master MasterWatt Lite " ,
+          "Costo": "EUR 59.99",
+	  "Fatt_Forma": "ATX",
+	  "Marca": "Cooler Master",
+	  "Descrizione": "700 W"
+        }
+	]
+},{
+	"name": "Hard disk",
+     	"caratteristiche": [
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51VVkeXoFGL.jpg",
+          "Titolo": "WD WD10EZEX Blu Hard Disk" ,
+          "Costo": "EUR 40.39" ,
+	  "Fatt_Forma": "Tutti" ,
+	  "Marca": "Western Digital" ,
+	  "Descrizione" : "1 TB"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/915bJk4f6DL._SX522_.jpg",
+          "Titolo": "Seagate Hard-disk ST2000DM006" ,
+          "Costo": "EUR 58.83" ,
+	  "Fatt_Forma": "Tutti" ,
+	  "Marca":"Seagate Technology" ,
+	  "Descrizione":"2 TB"
+        }
+	]
+},{
+	"name": "Scheda Grafica",
+     	"caratteristiche": [
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/71YDXFhIuWL._SX569_.jpg",
+          "Titolo": "GeForce GTX 1050TI PH-GTX1050TI-4G" ,
+          "Costo": "EUR 197.74" ,
+	  "Fatt_Forma": "DDR3 SDRAM" ,
+	  "Marca": "Asus" ,
+	  "Descrizione" : "100 Watt"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41E-3fHmY%2BL.jpg",
+          "Titolo": "GeForce GTX 1050 Ti Gaming X 4G" ,
+          "Costo": "EUR 215.00" ,
+	  "Fatt_Forma": "DDR3 SDRAM" ,
+	  "Marca": "MSI" ,
+	  "Descrizione": "100 Watt"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51652R0fgzL.jpg",
+          "Titolo": "VGA Radeon R7240-OC-4GD3-L" ,
+          "Costo": "EUR 112.90" ,
+	  "Fatt_Forma": "DDR4 SDRAM" ,
+	  "Marca": "Asus" ,
+	  "Descrizione": "100 Watt"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51jB5W9bHFL.jpg",
+          "Titolo": "GeForce ROG Strix GTX 1060" ,
+          "Costo": "EUR 380.99" ,
+	  "Fatt_Forma": "DDR5 SDRAM" ,
+	  "Marca": "Asus" ,
+	  "Descrizione": "150 Watt"
+        }
+	]
+	}
+
+]
+}
