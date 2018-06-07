@@ -19,7 +19,7 @@
           "Costo": "EUR 91.41",
 	  "Fatt_Forma": "ATX,ITX,Micro-ATX",
 	  "Marca":"NOX",
-	  "Descrizione":"Peso: 4,5 Kg ",
+	  "Descrizione":"Peso: 4,5 Kg",
 	  "Link":"https://www.amazon.it/NOX-Hummer-Case-Tower-Nero/dp/B0719DJWZM/"
 
         },
@@ -66,7 +66,7 @@
           "Costo": "EUR 54.99",
 	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
 	  "Marca":"Sharkoon",
-	  "Descrizione":"Peso: 5 Kg ",
+	  "Descrizione":"Peso: 5 Kg",
 	  "Link":"https://www.amazon.it/Sharkoon-TG5-Midi-Tower-Black-computer/dp/B0747VRXB2/"
         },
 	{
@@ -84,7 +84,7 @@
           "Costo": "EUR 40.99",
 	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
 	  "Marca":"Cooler Master",
-	  "Descrizione":"Peso: 4,44 Kg ",
+	  "Descrizione":"Peso: 4,44 Kg",
 	  "Link":"https://www.amazon.it/Cooler-Master-MasterBox-microATX-MCW-L3B3-KANN-01/dp/B071GDSBMN/"
         },
 	{
@@ -93,7 +93,7 @@
           "Costo": "EUR 44.99",
 	  "Fatt_Forma": "ATX",
 	  "Marca":"Cooler Master",
-	  "Descrizione":"Peso: 4,44 Kg ",
+	  "Descrizione":"Peso: 4,44 Kg",
 	  "Link":"https://www.amazon.it/Cooler-Master-MasterBox-microATX-MCX-B5S2-WWNN-01/dp/B01F9S3PJU/"
         },
 	{
@@ -175,7 +175,7 @@
           "img": "https://images-na.ssl-images-amazon.com/images/I/71emiVzfbeL._SL1000_.jpg",
           "Titolo": "Gigabyte AB350-GAMING 3 " ,
           "Costo": "EUR 100.91",
-	  "Fatt_Forma": "ATX  ",
+	  "Fatt_Forma": "ATX ",
 	  "Marca": "Gigabyte Technology",
 	  "Descrizione":"CPU:AMD;AM4,RAM:DDR4-SDRAM,RAM-MAX:32 GB",
 	  "Link":"https://www.amazon.it/Gigabyte-AB350-GAMING-Scheda-Madre-Nero/dp/B06XMYM95G/"
