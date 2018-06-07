@@ -13,25 +13,14 @@
 	  "Descrizione":"Peso: 5,5 Kg",
 	  "Link":"https://www.amazon.it/NOX-NXPAX-Midi-Tower-Black-computer/dp/B00MAXC63Y/"
         },
-	 {
-          "img": "https://images-eu.ssl-images-amazon.com/images/I/51Jtpg-W27L._SX522_.jpg",
-          "Titolo": "Hummer TG RGB Tower Black computer case" ,
-          "Costo": "EUR 91.41",
-	  "Fatt_Forma": "ATX,ITX,Micro-ATX",
-	  "Marca":"NOX",
-	  "Descrizione":"Peso: 4,5 Kg",
-	  "Link":"https://www.amazon.it/NOX-Hummer-Case-Tower-Nero/dp/B0719DJWZM/"
-
-        },
-        {
-          "img": "https://images-eu.ssl-images-amazon.com/images/I/41ggj0VsV4L._AC_US160_.jpg",
-          "Titolo": "S25-W Black computer case" ,
-          "Costo": "EUR 45.99",
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/61dpo43sZlL._SX522_.jpg",
+          "Titolo": "VG4-W Midi-Tower Black,Red computer case" ,
+          "Costo": "EUR 31.99",
 	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
 	  "Marca":"Sharkoon",
-	  "Descrizione":"Peso: 6,5 Kg",
-	  "Link":"https://www.amazon.it/Sharkoon-S25-W-Midi-Tower-Black-computer/dp/B01LDDH8S4/"
-
+	  "Descrizione":"Peso: 3,5 Kg ",
+	  "Link":"https://www.amazon.it/Sharkoon-VG4-W-Midi-Tower-Black-computer/dp/B00NCG19J0/"
         },
         {
           "img": "https://images-eu.ssl-images-amazon.com/images/I/51uf1IMm-aL._AC_US160_.jpg",
@@ -50,6 +39,34 @@
 	  "Marca":"Itek",
 	  "Descrizione":"Peso: 6,5 Kg",
 	  "Link":"https://www.amazon.it/Itek-ITGCSA02-Cassa-Gaming-Nero/dp/B00KWZ9RLQ/"
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/81Nh1YIm-ZL._SX522_.jpg",
+          "Titolo": "MasterBox Lite 3.1 Case" ,
+          "Costo": "EUR 40.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Cooler Master",
+	  "Descrizione":"Peso: 4,44 Kg",
+	  "Link":"https://www.amazon.it/Cooler-Master-MasterBox-microATX-MCW-L3B3-KANN-01/dp/B071GDSBMN/"
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41But1Z7TwL.jpg",
+          "Titolo": "MasterBox 5 White with Dark Mirror Front Panel Case" ,
+          "Costo": "EUR 44.99",
+	  "Fatt_Forma": "ATX",
+	  "Marca":"Cooler Master",
+	  "Descrizione":"Peso: 4,44 Kg",
+	  "Link":"https://www.amazon.it/Cooler-Master-MasterBox-microATX-MCX-B5S2-WWNN-01/dp/B01F9S3PJU/"
+        },
+        {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/41ggj0VsV4L._AC_US160_.jpg",
+          "Titolo": "S25-W Black computer case" ,
+          "Costo": "EUR 45.99",
+	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
+	  "Marca":"Sharkoon",
+	  "Descrizione":"Peso: 6,5 Kg",
+	  "Link":"https://www.amazon.it/Sharkoon-S25-W-Midi-Tower-Black-computer/dp/B01LDDH8S4/"
+
         },
         {
           "img": "https://images-eu.ssl-images-amazon.com/images/I/41RA%2BB19Z0L.jpg",
@@ -70,33 +87,6 @@
 	  "Link":"https://www.amazon.it/Sharkoon-TG5-Midi-Tower-Black-computer/dp/B0747VRXB2/"
         },
 	{
-          "img": "https://images-eu.ssl-images-amazon.com/images/I/61dpo43sZlL._SX522_.jpg",
-          "Titolo": "VG4-W Midi-Tower Black,Red computer case" ,
-          "Costo": "EUR 31.99",
-	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
-	  "Marca":"Sharkoon",
-	  "Descrizione":"Peso: 3,5 Kg ",
-	  "Link":"https://www.amazon.it/Sharkoon-VG4-W-Midi-Tower-Black-computer/dp/B00NCG19J0/"
-        },
-	{
-          "img": "https://images-eu.ssl-images-amazon.com/images/I/81Nh1YIm-ZL._SX522_.jpg",
-          "Titolo": "MasterBox Lite 3.1 Case" ,
-          "Costo": "EUR 40.99",
-	  "Fatt_Forma": "ATX,Micro-ATX,Mini-ITX",
-	  "Marca":"Cooler Master",
-	  "Descrizione":"Peso: 4,44 Kg",
-	  "Link":"https://www.amazon.it/Cooler-Master-MasterBox-microATX-MCW-L3B3-KANN-01/dp/B071GDSBMN/"
-        },
-	{
-          "img": "https://images-eu.ssl-images-amazon.com/images/I/41But1Z7TwL.jpg",
-          "Titolo": "MasterBox 5 White with Dark Mirror Front Panel Case" ,
-          "Costo": "EUR 44.99",
-	  "Fatt_Forma": "ATX",
-	  "Marca":"Cooler Master",
-	  "Descrizione":"Peso: 4,44 Kg",
-	  "Link":"https://www.amazon.it/Cooler-Master-MasterBox-microATX-MCX-B5S2-WWNN-01/dp/B01F9S3PJU/"
-        },
-	{
           "img": "https://images-eu.ssl-images-amazon.com/images/I/7114UeFqfwL._SX522_.jpg",
           "Titolo": "MasterBox 5 MSI Gaming Edition Case" ,
           "Costo": "EUR 69.68",
@@ -104,6 +94,16 @@
 	  "Marca":"Cooler Master",
 	  "Descrizione":"Peso: 7,82 Kg",
 	  "Link":"https://www.amazon.it/Cooler-Master-MasterBox-microATX-MCX-B5S2-KWNN-03-MI/dp/B01MUCHGWA/"
+        },
+	 {
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/51Jtpg-W27L._SX522_.jpg",
+          "Titolo": "Hummer TG RGB Tower Black computer case" ,
+          "Costo": "EUR 91.41",
+	  "Fatt_Forma": "ATX,ITX,Micro-ATX",
+	  "Marca":"NOX",
+	  "Descrizione":"Peso: 4,5 Kg",
+	  "Link":"https://www.amazon.it/NOX-Hummer-Case-Tower-Nero/dp/B0719DJWZM/"
+
         }
       ]
     },
@@ -111,14 +111,6 @@
 	 "name": "Motherboard",
       "caratteristiche": [
 	{
-          "img": "https://images-eu.ssl-images-amazon.com/images/I/91Rt%2BcI1LLL._SX522_.jpg",
-          "Titolo": "ROG MAXIMUS IX Scheda Madre" ,
-          "Costo": "EUR 338.99",
-	  "Fatt_Forma": "ATX",
-	  "Marca":"Asus",
-	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR4-SDRAM,RAM-MAX:64 GB,",
-	  "Link":"https://www.amazon.it/ASUS-MAXIMUS-IX-FORMULA-Raffreddamento/dp/B01N9K5SRA/"
-        },{
           "img": "https://images-na.ssl-images-amazon.com/images/I/71vgjW9dSrL._SX679_.jpg",
           "Titolo": "Gigabyte GA-H110M-S2H Scheda Madre" ,
           "Costo": "EUR 51.99",
@@ -126,32 +118,6 @@
 	  "Marca":"Gigabyte Technology",
 	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR4-SDRAM,RAM-MAX:32 GB,",
 	  "Link":"https://www.amazon.it/Gigabyte-GA-H110M-S2H-Scheda-Madre-Nero/dp/B01649KMZS/"
-        },{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/41AnfCPvb8L.jpg",
-          "Titolo": "Asus X99-M WS Scheda Madre Intel 2011" ,
-          "Costo": "EUR 223.00",
-	  "Fatt_Forma": "Micro-ATX",
-	  "Marca":"Asus",
-	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:64 GB,",
-	  "Link":"https://www.amazon.it/Asus-X99-M-Scheda-Madre-Intel/dp/B013WB33ES/"
-
-        },{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/51HhbnRKaYL.jpg",
-          "Titolo": "Msi Z170A M9 ACK Scheda Madre da Gaming" ,
-          "Costo": "EUR 398.47",
-	  "Fatt_Forma": "ATX",
-	  "Marca":"MSI",
-	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:64 GB",
-	  "Link":"https://www.amazon.it/Z170A-Scheda-Madre-Gaming-Rosso/dp/B013XQ7VI6/"
-        },
-	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/81OfLJR2x6L._SX679_.jpg",
-          "Titolo": "Asrock J4205-ITX motherboard" ,
-          "Costo": "EUR 103.80",
-	  "Fatt_Forma": "ITX",
-	  "Marca":"Asrock",
-	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:16 GB",
-	  "Link":"https://www.amazon.it/Asrock-J4205-ITX-motherboard-motherboards-DDR3L-SDRAM/dp/B01M3TUOW4/"
         },
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/51QW01AWuPL.jpg",
@@ -163,15 +129,6 @@
 	  "Link":"https://www.amazon.it/N3150I-C-Braswell-Fanless-Mini-ITX-Celeron/dp/B00YSJ152G/"
         },
 	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/51KYJqydi1L.jpg",
-          "Titolo": "ASUS PRIME X370-A AMD X370" ,
-          "Costo": "EUR 124.90",
-	  "Fatt_Forma": "Mini-ITX",
-	  "Marca": "Asus",
-	  "Descrizione":"CPU:AMD;AM4,RAM:DDR4-SDRAM,RAM-MAX:64 GB",
-	  "Link":"https://www.amazon.it/PRIME-X370-PRO-Scheda-Madre-Socket/dp/B06X9F3FKP/"
-        },
-	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/71emiVzfbeL._SL1000_.jpg",
           "Titolo": "Gigabyte AB350-GAMING 3 " ,
           "Costo": "EUR 100.91",
@@ -179,6 +136,50 @@
 	  "Marca": "Gigabyte Technology",
 	  "Descrizione":"CPU:AMD;AM4,RAM:DDR4-SDRAM,RAM-MAX:32 GB",
 	  "Link":"https://www.amazon.it/Gigabyte-AB350-GAMING-Scheda-Madre-Nero/dp/B06XMYM95G/"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81OfLJR2x6L._SX679_.jpg",
+          "Titolo": "Asrock J4205-ITX motherboard" ,
+          "Costo": "EUR 103.80",
+	  "Fatt_Forma": "ITX",
+	  "Marca":"Asrock",
+	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:16 GB",
+	  "Link":"https://www.amazon.it/Asrock-J4205-ITX-motherboard-motherboards-DDR3L-SDRAM/dp/B01M3TUOW4/"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51KYJqydi1L.jpg",
+          "Titolo": "ASUS PRIME X370-A AMD X370" ,
+          "Costo": "EUR 124.90",
+	  "Fatt_Forma": "Mini-ITX",
+	  "Marca": "Asus",
+	  "Descrizione":"CPU:AMD;AM4,RAM:DDR4-SDRAM,RAM-MAX:64 GB",
+	  "Link":"https://www.amazon.it/PRIME-X370-PRO-Scheda-Madre-Socket/dp/B06X9F3FKP/"
+        },{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41AnfCPvb8L.jpg",
+          "Titolo": "Asus X99-M WS Scheda Madre Intel 2011" ,
+          "Costo": "EUR 223.00",
+	  "Fatt_Forma": "Micro-ATX",
+	  "Marca":"Asus",
+	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:64 GB,",
+	  "Link":"https://www.amazon.it/Asus-X99-M-Scheda-Madre-Intel/dp/B013WB33ES/"
+
+        },
+	{
+          "img": "https://images-eu.ssl-images-amazon.com/images/I/91Rt%2BcI1LLL._SX522_.jpg",
+          "Titolo": "ROG MAXIMUS IX Scheda Madre" ,
+          "Costo": "EUR 338.99",
+	  "Fatt_Forma": "ATX",
+	  "Marca":"Asus",
+	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR4-SDRAM,RAM-MAX:64 GB,",
+	  "Link":"https://www.amazon.it/ASUS-MAXIMUS-IX-FORMULA-Raffreddamento/dp/B01N9K5SRA/"
+        },{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51HhbnRKaYL.jpg",
+          "Titolo": "Msi Z170A M9 ACK Scheda Madre da Gaming" ,
+          "Costo": "EUR 398.47",
+	  "Fatt_Forma": "ATX",
+	  "Marca":"MSI",
+	  "Descrizione":"CPU:INTEL;LGA 1151,RAM:DDR3-SDRAM,RAM-MAX:64 GB",
+	  "Link":"https://www.amazon.it/Z170A-Scheda-Madre-Gaming-Rosso/dp/B013XQ7VI6/"
         }
 	]
   },
@@ -186,30 +187,12 @@
 	"name": "RAM",
      	"caratteristiche": [
 	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/41AGvSmY-fL.jpg",
-          "Titolo": "Corsair CMK16GX4M2B3000C15" ,
-          "Costo": "EUR 117.90" ,
-	  "Fatt_Forma" : "DDR4-SDRAM",
-	  "Marca":"Corsair",
-	  "Descrizione":"RAM:16 GB",
-	  "Link":"https://www.amazon.it/Corsair-Vengeance-Memorie-Desktop-Prestazioni/dp/B0134EW7G8/"
-        },
-	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/81ly9A6hgZL._SX679_.jpg",
-          "Titolo": "Ballistix Sport LT BLS8G4D240FSE " ,
-          "Costo": "EUR 88.99",
-	  "Fatt_Forma": "DDR4-SDRAM",
-	  "Marca":"Ballistix",
-	  "Descrizione":"RAM:8 GB",
-	  "Link":"https://www.amazon.it/Ballistix-BLS8G4D240FSE-Memoria-PC4-19200-288-Pin/dp/B01DPSQOO4/"
-        },
-	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/51JYTCG0M1L.jpg",
           "Titolo": "Corsair Simm Memoria RAM" ,
           "Costo": "EUR 71.89" ,
 	  "Fatt_Forma": "DDR3" ,
 	  "Marca":"Corsair" ,
-	  "Descrizione":"RAM:8 GB",
+	  "Descrizione":"RAM:4 GB",
 	  "Link":"https://www.amazon.it/Corsair-Vengeance-Memorie-Desktop-Prestazioni/dp/B0134EW7G8/"
         },
 	{
@@ -218,7 +201,7 @@
           "Costo": "EUR 79.18" ,
 	  "Fatt_Forma": "DDR3-SDRAM" ,
 	  "Marca":"Kingston" ,
-	  "Descrizione":"RAM:8 GB",
+	  "Descrizione":"RAM:4 GB",
 	  "Link":"https://www.amazon.it/Kingston-HyperX-Fury-Memorie-DDR-III/dp/B00J8E93G6/"
         },
 	{
@@ -231,15 +214,6 @@
 	  "Link":"https://www.amazon.it/HyperX-Fury-HX424C15FB2-Memoria-DDR4/dp/B01D8U2BKA/"
         },
 	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/41KLj64ZckL.jpg",
-          "Titolo": "Corsair Vengeance LPX Memorie" ,
-          "Costo": "EUR 107.00" ,
-	  "Fatt_Forma": "DDR4" ,
-	  "Marca":"Corsair" ,
-	  "Descrizione":"RAM:8 GB",
-	  "Link":"https://www.amazon.it/Corsair-Vengeance-Memorie-Desktop-Prestazioni/dp/B0123ZAYIW/"
-        },
-	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/51h0irIr7cL._SX679_.jpg",
           "Titolo": "HyperX Fury HX421C14FB2/8" ,
           "Costo": "EUR 88.90" ,
@@ -247,6 +221,32 @@
 	  "Marca":"HyperX" ,
 	  "Descrizione":"RAM:8 GB",
 	  "Link":"https://www.amazon.it/HyperX-Fury-HX421C14FB2-Memoria-DDR4/dp/B01D8U27YU/"
+        },{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/81ly9A6hgZL._SX679_.jpg",
+          "Titolo": "Ballistix Sport LT BLS8G4D240FSE " ,
+          "Costo": "EUR 88.99",
+	  "Fatt_Forma": "DDR4-SDRAM",
+	  "Marca":"Ballistix",
+	  "Descrizione":"RAM:8 GB",
+	  "Link":"https://www.amazon.it/Ballistix-BLS8G4D240FSE-Memoria-PC4-19200-288-Pin/dp/B01DPSQOO4/"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41KLj64ZckL.jpg",
+          "Titolo": "Corsair Vengeance LPX Memorie" ,
+          "Costo": "EUR 107.00" ,
+	  "Fatt_Forma": "DDR4" ,
+	  "Marca":"Corsair" ,
+	  "Descrizione":"RAM:16 GB",
+	  "Link":"https://www.amazon.it/Corsair-Vengeance-Memorie-Desktop-Prestazioni/dp/B0123ZAYIW/"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41AGvSmY-fL.jpg",
+          "Titolo": "Corsair CMK16GX4M2B3000C15" ,
+          "Costo": "EUR 117.90" ,
+	  "Fatt_Forma" : "DDR4-SDRAM",
+	  "Marca":"Corsair",
+	  "Descrizione":"RAM:16 GB",
+	  "Link":"https://www.amazon.it/Corsair-Vengeance-Memorie-Desktop-Prestazioni/dp/B0134EW7G8/"
         }
 	]
 },
@@ -254,6 +254,39 @@
 	"name": "CPU",
      	"caratteristiche": [
 	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/41MydvwXz1L.jpg",
+          "Titolo": "Amd Athlon X4 845" ,
+          "Costo": "EUR 83.90" , 
+	  "Fatt_Forma": "AM4" ,
+	  "Marca":"AMD" ,
+	  "Descrizione":"RAM:DDR3-SDRAM",
+	  "Link":"https://www.amazon.it/Amd-Athlon-845-Processore-3-5Ghz/dp/B01BF376EI/"
+        },{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/615o6o8HXqL._SX679_.jpg",
+          "Titolo": "AMD YD1200BBAEBOX Processore" ,
+          "Costo": "EUR 85.00" , 
+	  "Fatt_Forma": "AM4" ,
+	  "Marca":"AMD" ,
+	  "Descrizione":"RAM:DDR4-SDRAM",
+	  "Link":"https://www.amazon.it/AMD-YD1200BBAEBOX-Processore-CPU-Argento/dp/B0741DN383/"
+        },{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/5121nzU159L.jpg",
+          "Titolo": "Intel Core i3-7100 3.9GHz 3MB Cache" ,
+          "Costo": "EUR 104.00",
+	  "Fatt_Forma": "LGA 1151",
+	  "Marca":"INTEL",
+	  "Descrizione":"RAM:DDR4-SDRAM",
+	  "Link":"https://www.amazon.it/Intel-i3-7100-3-9GHz-intelligente-Scatola/dp/B01NCESRJX/"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/91JK7uwizBL._SL1500_.jpg",
+          "Titolo": "Intel Core i7 8700K Cpu" ,
+          "Costo": "EUR 174.74" , 
+	  "Fatt_Forma": "LGA 1170" ,
+	  "Marca":"INTEL" ,
+	  "Descrizione":"RAM:DDR3-SDRAM",
+	  "Link":"https://www.amazon.it/Intel-Box-i3-4170-Processore-Grigio/dp/B00VHKZ6I8/"
+        },{
           "img": "https://images-na.ssl-images-amazon.com/images/I/71FVG05LzRL._SX679_.jpg",
           "Titolo": "Intel i5 BX80684I58400 Cpu Processore" ,
           "Costo": "EUR 175.90" ,
@@ -261,6 +294,15 @@
 	  "Marca":"INTEL" ,
 	  "Descrizione":"RAM:DDR4-SDRAM",
 	  "Link":"https://www.amazon.it/Intel-BX80684I58400-Cpu-Processore-Argento/dp/B0759FGJ3Q/"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/71GY6jdAVHL._SL1500_.jpg",
+          "Titolo": "Intel Core i5-7500 3.4GHz" ,
+          "Costo": "EUR 191.99",
+	  "Fatt_Forma": "LGA 1151",
+	  "Marca":"INTEL",
+	  "Descrizione":"RAM:DDR4-SDRAM",
+	  "Link":"https://www.amazon.it/Intel-i5-7500-3-4GHz-intelligente-Scatola/dp/B01MZZJ1P0/5"
         },
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/717cM10iJFL._SX679_.jpg",
@@ -272,63 +314,27 @@
 	  "Link":"https://www.amazon.it/Intel-I7-7700K-Box-Processore-Blu/dp/B01LTI1JEM/"
         },
 	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/5121nzU159L.jpg",
-          "Titolo": "Intel Core i3-7100 3.9GHz 3MB Cache" ,
-          "Costo": "EUR 104.00",
-	  "Fatt_Forma": "LGA 1151",
-	  "Marca":"INTEL",
-	  "Descrizione":"RAM:DDR4-SDRAM",
-	  "Link":"https://www.amazon.it/Intel-i3-7100-3-9GHz-intelligente-Scatola/dp/B01NCESRJX/"
-        },
-	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/615o6o8HXqL._SX679_.jpg",
-          "Titolo": "AMD YD1200BBAEBOX Processore" ,
-          "Costo": "EUR 85.00" , 
-	  "Fatt_Forma": "AM4" ,
-	  "Marca":"AMD" ,
-	  "Descrizione":"RAM:DDR4-SDRAM",
-	  "Link":"https://www.amazon.it/AMD-YD1200BBAEBOX-Processore-CPU-Argento/dp/B0741DN383/"
-        },{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/71GY6jdAVHL._SL1500_.jpg",
-          "Titolo": "Intel Core i5-7500 3.4GHz" ,
-          "Costo": "EUR 191.99",
-	  "Fatt_Forma": "LGA 1151",
-	  "Marca":"INTEL",
-	  "Descrizione":"RAM:DDR4-SDRAM",
-	  "Link":"https://www.amazon.it/Intel-i5-7500-3-4GHz-intelligente-Scatola/dp/B01MZZJ1P0/5"
-        },
-	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/91l0wAmTC%2BL._SL1500_.jpg",
           "Titolo": "Intel Core i7 8700K Cpu" ,
-          "Costo": "EUR 327.99" , 
+          "Costo": "EUR 299.99" , 
 	  "Fatt_Forma": "LGA 1151" ,
 	  "Marca":"INTEL" ,
 	  "Descrizione":"RAM:DDR4-SDRAM",
 	  "Link":"https://www.amazon.it/Intel-Core-8700K-Processore-Argento/dp/B07598VZR8/"
-        },
-	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/91JK7uwizBL._SL1500_.jpg",
-          "Titolo": "Intel Core i7 8700K Cpu" ,
-          "Costo": "EUR 174.74" , 
-	  "Fatt_Forma": "LGA 1170" ,
-	  "Marca":"INTEL" ,
-	  "Descrizione":"RAM:DDR3-SDRAM",
-	  "Link":"https://www.amazon.it/Intel-Box-i3-4170-Processore-Grigio/dp/B00VHKZ6I8/"
-        },
-	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/41MydvwXz1L.jpg",
-          "Titolo": "Amd Athlon X4 845" ,
-          "Costo": "EUR 63.90" , 
-	  "Fatt_Forma": "AM4" ,
-	  "Marca":"AMD" ,
-	  "Descrizione":"RAM:DDR3-SDRAM",
-	  "Link":"https://www.amazon.it/Amd-Athlon-845-Processore-3-5Ghz/dp/B01BF376EI/"
         }
 	]
 },{
 	"name": "Alimentatore",
      	"caratteristiche": [
 	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/91YI5bSnqnL._SL1500_.jpg",
+          "Titolo": "Corsair VS350 Alimentatore PC" ,
+          "Costo": "EUR 37.47" ,
+	  "Fatt_Forma": "ATX" ,
+	  "Marca": "Corsair" ,
+	  "Descrizione": "350 W",
+	  "Link":"https://www.amazon.it/Corsair-VS350-CP-9020095-EU-Alimentatore-certificazione/dp/B00LMBQD3O/"
+        },{
           "img": "https://images-na.ssl-images-amazon.com/images/I/91Y3Z0c8G5L._SX522_.jpg",
           "Titolo": "Corsair VS450 CP-9020096-EU Alimentatore" ,
           "Costo": "EUR 44.82" ,
@@ -336,6 +342,24 @@
 	  "Marca": "Corsair" ,
 	  "Descrizione": "450 W",
 	  "Link":"https://www.amazon.it/Corsair-VS450-CP-9020096-EU-Alimentatore-certificazione/dp/B00LMBTO7Q/"
+        },
+	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51sfzcVFs4L.jpg",
+          "Titolo": "Cooler Master Elite 600W Alimentatore " ,
+          "Costo": "EUR 44.99",
+	  "Fatt_Forma": "ATX",
+	  "Marca": "Cooler Master",
+	  "Descrizione": "600 W",
+	  "Link":"https://www.amazon.it/Cooler-Master-Alimentatore-Alimentazione-RS600-ACABM4-WB/dp/B00A9277NM/"
+        },
+	{
+          "img": "https://www.amazon.it/Thermaltake-Smart-Alimentatore-Modulare-530W/dp/B00BDB28HS/",
+          "Titolo": "Thermaltake Smart SE Alimentatore" ,
+          "Costo": "EUR 53.79",
+	  "Fatt_Forma": "ATX",
+	  "Marca": "Thermaltake",
+	  "Descrizione": "450 W",
+	  "Link":"https://images-na.ssl-images-amazon.com/images/I/51v1rJqmTzL.jpg"
         },
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/91aqNXaD%2BQL._SX522_.jpg",
@@ -354,37 +378,10 @@
 	  "Marca": "Cooler Master",
 	  "Descrizione": "700 W",
 	  "Link":"https://www.amazon.it/Cooler-Master-Alimentatore-Non-Modulare-MPX-7001-ACABW-EU/dp/B01N7A875X/"
-        },
-	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/91YI5bSnqnL._SL1500_.jpg",
-          "Titolo": "Corsair VS350 Alimentatore PC" ,
-          "Costo": "EUR 37.47" ,
-	  "Fatt_Forma": "ATX" ,
-	  "Marca": "Corsair" ,
-	  "Descrizione": "350 W",
-	  "Link":"https://www.amazon.it/Corsair-VS350-CP-9020095-EU-Alimentatore-certificazione/dp/B00LMBQD3O/"
-        },
-	{
-          "img": "https://www.amazon.it/Thermaltake-Smart-Alimentatore-Modulare-530W/dp/B00BDB28HS/",
-          "Titolo": "Thermaltake Smart SE Alimentatore" ,
-          "Costo": "EUR 53.79",
-	  "Fatt_Forma": "ATX",
-	  "Marca": "Thermaltake",
-	  "Descrizione": "450 W",
-	  "Link":"https://images-na.ssl-images-amazon.com/images/I/51v1rJqmTzL.jpg"
-        },
-	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/51sfzcVFs4L.jpg",
-          "Titolo": "Cooler Master Elite 600W Alimentatore " ,
-          "Costo": "EUR 44.99",
-	  "Fatt_Forma": "ATX",
-	  "Marca": "Cooler Master",
-	  "Descrizione": "600 W",
-	  "Link":"https://www.amazon.it/Cooler-Master-Alimentatore-Alimentazione-RS600-ACABM4-WB/dp/B00A9277NM/"
         }
 	]
 },{
-	"name": "Hard disk",
+	"name": "Memoria",
      	"caratteristiche": [
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/51VVkeXoFGL.jpg",
@@ -452,6 +449,14 @@
 	"name": "Scheda Grafica",
      	"caratteristiche": [
 	{
+          "img": "https://images-na.ssl-images-amazon.com/images/I/51652R0fgzL.jpg",
+          "Titolo": "VGA Radeon R7240-OC-4GD3-L" ,
+          "Costo": "EUR 112.90" ,
+	  "Fatt_Forma": "DDR4 SDRAM" ,
+	  "Marca": "Asus" ,
+	  "Descrizione": "100 Watt",
+	  "Link":"https://www.amazon.it/Asus-Radeon-R7240-OC-4GD3-L-Scheda-Grafica/dp/B00JR9KXZM/"
+        },{
           "img": "https://images-na.ssl-images-amazon.com/images/I/71YDXFhIuWL._SX569_.jpg",
           "Titolo": "GeForce GTX 1050TI PH-GTX1050TI-4G" ,
           "Costo": "EUR 197.74" ,
@@ -470,13 +475,13 @@
 	  "Link":"https://www.amazon.it/MSI-GeForce-Gaming-Grafica-Interfaccia/dp/B01MAZ357B/"
         },
 	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/51652R0fgzL.jpg",
-          "Titolo": "VGA Radeon R7240-OC-4GD3-L" ,
-          "Costo": "EUR 112.90" ,
-	  "Fatt_Forma": "DDR4 SDRAM" ,
-	  "Marca": "Asus" ,
-	  "Descrizione": "100 Watt",
-	  "Link":"https://www.amazon.it/Asus-Radeon-R7240-OC-4GD3-L-Scheda-Grafica/dp/B00JR9KXZM/"
+          "img": "https://images-na.ssl-images-amazon.com/images/I/71Yl1zp731L._SL1000_.jpg",
+          "Titolo": "NVIDIA GeForce GTX 1050 T" ,
+          "Costo": "EUR 216.13" ,
+	  "Fatt_Forma": "DDR3 SDRAM" ,
+	  "Marca": "Gigabyte Technology" ,
+	  "Descrizione": "200 Watt",
+	  "Link":"https://www.amazon.it/GIGABYTE-GeForce-1050-Ti-WINDFORCE-GDDR5-128-Bit/dp/B01MG15JZS/"
         },
 	{
           "img": "https://images-na.ssl-images-amazon.com/images/I/51jB5W9bHFL.jpg",
@@ -486,15 +491,6 @@
 	  "Marca": "Asus" ,
 	  "Descrizione": "150 Watt",
 	  "Link":"https://www.amazon.it/Asus-GeForce-Strix-Scheda-Grafica/dp/B01I1D1XXA/"
-        },
-	{
-          "img": "https://images-na.ssl-images-amazon.com/images/I/71Yl1zp731L._SL1000_.jpg",
-          "Titolo": "NVIDIA GeForce GTX 1050 T" ,
-          "Costo": "EUR 216.13" ,
-	  "Fatt_Forma": "DDR3 SDRAM" ,
-	  "Marca": "Gigabyte Technology" ,
-	  "Descrizione": "200 Watt",
-	  "Link":"https://www.amazon.it/GIGABYTE-GeForce-1050-Ti-WINDFORCE-GDDR5-128-Bit/dp/B01MG15JZS/"
         }
 	]
 	}
